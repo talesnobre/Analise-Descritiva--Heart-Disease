@@ -1,4 +1,4 @@
-# Projeto de Introdução à Ciência de Dados - Predição de Falhas Cardiacas
+# Projeto de Introdução à Ciência de Dados - Predição de Falhas Cardíacas
 ## Projeto criado por alunos de Introdução à Ciência de Dados - UFPB
 
 ### Separamos a análise em 3 partes (arquivos).
